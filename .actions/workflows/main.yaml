@@ -1,2 +1,2 @@
 name : build and deploy sprin app
-on : 
+on : push
