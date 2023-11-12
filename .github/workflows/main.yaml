@@ -5,7 +5,7 @@ on:
    - main
 jobs:
  build-deploy:
-  name: buils and deploy first pipeline ci cd
+  name: buils and deploy my first pipeline ci cd
   runs-on: ubuntu-latest
   steps:
    - name: checkout code
